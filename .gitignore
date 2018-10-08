@@ -1,0 +1,77 @@
+Last login: Mon Oct  8 16:55:55 on ttys008
+DHCP-143-158:GATS kamyarazizzade$ ls
+GATS.ipynb	dqn_learn.py	gats.py		models		src
+README.md	dqn_model.py	main.py		ram.py		utils
+DHCP-143-158:GATS kamyarazizzade$ cd ..
+DHCP-143-158:untitled folder kamyarazizzade$ cd ..
+DHCP-143-158:GATS-Github kamyarazizzade$ cd 
+.DS_Store        GATS-Pytorch/    untitled folder/ 
+DHCP-143-158:GATS-Github kamyarazizzade$ cd 
+.DS_Store        GATS-Pytorch/    untitled folder/ 
+DHCP-143-158:GATS-Github kamyarazizzade$ cd GATS-Pytorch/
+DHCP-143-158:GATS-Pytorch kamyarazizzade$ ls
+DDQN_GATS_RNN-9237.ipynb	gats.py				ram.py
+dqn_learn.py			main.py				src
+dqn_model.py			models				utils
+DHCP-143-158:GATS-Pytorch kamyarazizzade$ vim .git
+.git/       .gitignore  
+DHCP-143-158:GATS-Pytorch kamyarazizzade$ vim .git
+.git/       .gitignore  
+DHCP-143-158:GATS-Pytorch kamyarazizzade$ vim .gitignore 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Gym monitor videos
+tmp/
+data/
+Asterix/
+# pickle file
+*.pkl
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+".gitignore" 102L, 1157C
+
